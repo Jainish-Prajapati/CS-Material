@@ -35,7 +35,7 @@ Some standard books and YT Channels for Java Development, System design, Applied
 - [Gaurav Sen (gkcs)](https://www.youtube.com/@gkcs)
 - [Kunal Kushwaha](https://www.youtube.com/@KunalKushwaha)
 - [Karan Mashru](https://www.youtube.com/@KaranMashru)
-- [Love Babbar](https://www.youtube.com/@iamluv)
+- [Luv](https://www.youtube.com/@iamluv)
 - [Take U Forward](https://www.youtube.com/@takeUforward)
 - [Perfology](https://www.youtube.com/@perfology)
 
